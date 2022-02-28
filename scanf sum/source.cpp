@@ -1,6 +1,6 @@
 /* 두 수를 입력받아 덧셈 후 출력 */
 #include <stdio.h> /* 선행처리기(파일포함)*/
-#pragma warning(disable:4996) // 권장하지 않는 함수 사용에 대한 경고 메시지 무시
+#pragma warning(disable:4996) // 권장하지 않는 함수 사용에 대한 경고 메시지 무시방법
 
 int main() {
 	int x, y, sum; /*변수 선언문*/
