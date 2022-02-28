@@ -10,7 +10,7 @@ int main()
 
     long double num3 = 3.14e-3l;    // 배정밀도 부동소수점 변수를 선언하고 값을 할당
                                      // long double은 숫자 뒤에 l을 붙임
-
+    
     // float와 double은 %f로 출력, long double은 %Lf로 출력
     printf("%f %f %Lf\n", num1, num2, num3);    // 결과값 나열
 
