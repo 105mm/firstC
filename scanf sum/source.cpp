@@ -4,11 +4,17 @@
 
 int main() {
 	int x, y, sum; /*변수 선언문*/
+	
+		
 	/* 변수 x, y를 입력받음 */
 	scanf("%d", &x);
 	scanf("%d", &y);
+
+
 	// 두 수를 더해 변수 sum에 저장
 	sum = x + y;
+
+
 	// 결과를 화면에 출력
 	printf("sum = %d", sum);
 }
